@@ -4,7 +4,7 @@ import Toolbar from '@mui/material/Toolbar';
 
 import Button from '@mui/material/Button';
 import MenuIcon from '@mui/icons-material/Menu';
-
+import Typography from '@mui/material/Typography';
 export default function MainNavBar(){
 return <header className="App-header">
         <Box sx={{ flexGrow: 1 }}>
